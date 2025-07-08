@@ -1,4 +1,4 @@
-# Calculator
+# wxWidgets GUI C++ Calculator
 
 Calculator - something used for making mathematical calculations, in particular a small electronic device with a keyboard and a visual display.
            - this is a simple project to make a Graphical User Interface (GUI) Calculator application using a wxWidgets Framework for C++ application development
